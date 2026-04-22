@@ -4,10 +4,12 @@ The dashboard provides an interactive overview of how different factors such as 
 
 🛠️ Tools Used
 Power BI
-Data visualization & dashboard design
+Data visualization & dashboard design.
+
 📂 Dataset
 Survey dataset of data professionals
 Includes job roles, salary, gender, country, and job satisfaction metrics and many more.
+
 🔍 Key Analysis
 Average salary by job title
 Distribution of survey participants by country
@@ -15,6 +17,7 @@ Gender distribution across roles
 Favorite programming languages
 Difficulty of entering the data field
 Demographic insights (age, experience)
+
 📈 Key Insights
 Data Scientists tend to have the highest average salaries
 Python is the most popular programming language among respondents
